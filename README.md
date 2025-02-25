@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">A Software Engineer from London</h3>
 
-- 🔭 I’m currently working on **a Social Media App**
+- 🔭 I’m currently working on **an App to release on IOS App Store**
 
 - 🌱 I’m currently learning **Expo and React Native**
 
